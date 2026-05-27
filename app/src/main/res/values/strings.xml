@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Nama aplikasi -->
+    <string name="app_name">
+        Bengkalis Online Service
+    </string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">
+        Open navigation drawer
+    </string>
+
+    <string name="navigation_drawer_close">
+        Close navigation drawer
+    </string>
+
+    <string name="nav_header_title">
+        Android Studio
+    </string>
+
+    <string name="nav_header_subtitle">
+        android.studio@android.com
+    </string>
+
+    <string name="nav_header_desc">
+        Navigation header
+    </string>
+
+    <!-- Menu Drawer -->
+    <string name="menu_home">
+        Beranda
+    </string>
+
+    <string name="menu_user_services">
+        Jasa Pengguna
+    </string>
+
+    <string name="menu_account_setting">
+        Pengaturan Akun
+    </string>
+
+    <string name="menu_user_profile">
+        Profil Pengguna
+    </string>
+
+    <string name="menu_logout">
+        Logout
+    </string>
+
+    <!-- Splash Screen -->
+    <string name="icon_url">
+        https://www.flaticon.com/
+    </string>
+
+    <!-- Form Login -->
+
+    <string name="signin">
+    Silahkan Masuk
+</string>
+
+    <string name="email">
+    Email
+</string>
+
+    <string name="password">
+    Password
+</string>
+
+    <string name="login">
+    Login
+</string>
+
+    <string name="register">
+    Tidak punya akun, silahkan
+    <u><b>Mendaftar</b></u>
+</string>
+
+    <string name="medsos">
+    Kunjungi Media Sosial Kami
+</string>
+
+    <!-- Form Register -->
+
+    <string name="daftar">
+    Daftar Akun
+</string>
+
+    <string name="nama">
+    Nama
+</string>
+
+    <string name="tanggal_lahir">
+    Tanggal Lahir
+</string>
+
+    <string name="no_hp">
+    Nomor HP
+</string>
+
+    <string name="alamat">
+    Alamat
+</string>
+
+    <string name="konfirmasi_password">
+    Konfirmasi Password
+</string>
+
+    <string name="submit">
+    Submit
+</string>
+
+    <array name="jenis_kelamin">
+
+        <item>Jenis Kelamin</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+
+    </array>
+
+    <!-- Fragment Profile -->
+
+    <string name="jenis_kelamin">
+    Jenis Kelamin
+</string>
+
+    <string name="waktu_sesi">
+    Waktu Sesi
+</string>
+
+    <string name="mypicture">
+    Gambar Profil
+</string>
+
+    <string name="myname">
+    Emily Johnson
+</string>
+
+    <string name="mybirth">
+    12 Mei 1998
+</string>
+
+    <string name="mygender">
+    Perempuan
+</string>
+
+    <string name="myphone">
+    08123456789
+</string>
+
+    <string name="myaddres">
+    Bengkalis - Riau
+</string>
+
+    <string name="myemail">
+    emilys@x.dummyjson.com
+</string>
+
+    <string name="mysession">
+    09-10-2025 09:00:00
+</string>
+
+    <string name="edit_profil">
+    Ubah Profil
+</string>
+
+    <string name="hapus_akun">
+    Hapus Akun
+</string>
+
+    <!-- Edit Profile -->
+
+    <string name="ubah_profile">
+    Ubah Profile
+</string>
+
+    <string name="judul_password">
+    Silahkan kosongkan password, jika tidak mau mengubahnya!
+</string>
+
+</resources>
